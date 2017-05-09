@@ -4,7 +4,6 @@ const customerPath = `${path.resolve()}/app/costumer/`;
 
 /**
  * Relative Alias Path Converter - Webpack plugin
- * Costumers want to overwrite relative paths in order to customise the application replacing a files, components, etc.
  * Webpack by default does not support overwriting relative paths, then, RelativeAliasConverter was designed
  * overwrite relative paths whenever the application is compiling.
  *
