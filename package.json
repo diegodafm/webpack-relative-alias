@@ -1,0 +1,26 @@
+{
+  "name": "webpack-relative-aliases",
+  "version": "0.1.0",
+  "description": "solving webpack overwritten relative aliases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegodafm/webpack-relative-alias.git"
+  },
+  "keywords": [
+    "webpack",
+    "alias",
+    "relative",
+    "path",
+    "plugin"
+  ],
+  "author": "Diego Mendonca <diego.dafm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegodafm/webpack-relative-alias/issues"
+  },
+  "homepage": "https://github.com/diegodafm/webpack-relative-alias#readme"
+}
