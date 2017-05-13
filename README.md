@@ -1,5 +1,5 @@
 # WebpackRelativeAliases - Plugin
-Webpack by default does not support overwriting relative paths, then, RelativeAliasConverter was designed overwrite relative paths whenever the application is compiling.
+Webpack by default does not support overwriting relative paths, then, WebpackRelativeAliases was designed overwrite relative paths whenever the application is compiling.
  
  ```javascript
  
