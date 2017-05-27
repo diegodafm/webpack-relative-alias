@@ -1,6 +1,6 @@
 {
   "name": "webpack-relative-aliases",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "solving webpack overwritten relative aliases",
   "main": "index.js",
   "scripts": {
