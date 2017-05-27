@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diegodafm/webpack-relative-alias.git"
+    "url": "git+https://github.com/diegodafm/webpack-relative-aliases.git"
   },
   "keywords": [
     "webpack",
@@ -20,7 +20,7 @@
   "author": "Diego Mendonca <diego.dafm@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/diegodafm/webpack-relative-alias/issues"
+    "url": "https://github.com/diegodafm/webpack-relative-aliases/issues"
   },
-  "homepage": "https://github.com/diegodafm/webpack-relative-alias#readme"
+  "homepage": "https://github.com/diegodafm/webpack-relative-aliases#readme"
 }
